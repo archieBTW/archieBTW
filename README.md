@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm archieBTW! 👋</h1>
-  <p><i>Software Developer | Musician | Car Enthusiast | Linux & Open Source | Theology Student</i></p>
+  <p><i>Software Developer | Musician | Car Enthusiast | Linux & Open Source</i></p>
 </div>
 
 ---
@@ -24,7 +24,7 @@ When I'm not writing code, you can probably find me making music. I have two act
 - **archBTW** — My solo indie rock project
 - **violet apparition** — A 2-piece psychedelic instrumental project with my wife
 
-I'm also a huge gearhead—I love **cars**, especially modifying them and getting my hands dirty under the hood. On top of all that, I'm currently back in school part-time studying **theology**!
+I'm also a huge gearhead—I love **cars**, especially modifying them and getting my hands dirty under the hood.
 
 ### 🐾 Personal Life
 
